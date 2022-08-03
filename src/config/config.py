@@ -38,7 +38,6 @@ SUPPORTED_DISTROS = {
       "zUbuntu 16.04":"Ubuntu_16_04_Package_List.json",
       "zUbuntu 18.04":"Ubuntu_18_04_Package_List.json",
       "zUbuntu 20.04":"Ubuntu_20_04_Package_List.json",
-      "zUbuntu 21.10":"Ubuntu_21_10_Package_List.json",
       "zUbuntu 22.04":"Ubuntu_22_04_Package_List.json"
    },
    "zSUSE Linux Enterprise Server":{
@@ -80,7 +79,6 @@ SUPPORTED_DISTROS = {
       "xUbuntu 16.04":"xUbuntu_16_04_Package_List.json",
       "xUbuntu 18.04":"xUbuntu_18_04_Package_List.json",
       "xUbuntu 20.04":"xUbuntu_20_04_Package_List.json",
-      "xUbuntu 21.10":"xUbuntu_21_10_Package_List.json",
       "xUbuntu 22.04":"xUbuntu_22_04_Package_List.json"
    },
    "xSUSE Linux Enterprise Server":{
