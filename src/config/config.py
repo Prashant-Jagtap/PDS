@@ -61,14 +61,6 @@ SUPPORTED_DISTROS = {
         "zSLES 15 SP3": "SUSE_Package_Hub_SLES_15_SP3.json",
         "zSLES 15 SP4": "SUSE_Package_Hub_SLES_15_SP4.json"
     },
-    "zDebian": {
-        "zDebian 11": "Debian_11_Package_List.json"
-    },
-    "zFedora": {
-        "zFedora 34": "Fedora_34_Package_List.json",
-        "zFedora 35": "Fedora_35_Package_List.json",
-        "zFedora 36": "Fedora_36_Package_List.json"
-    },
     "zRHEL": {
         "zRHEL 6.10": "RHEL_6_10_Package_List.json",
         "zRHEL 7.6": "RHEL_7_6_Package_List.json",
@@ -110,15 +102,6 @@ SUPPORTED_DISTROS = {
         "xSLES 15 SP2": "xSUSE_Package_Hub_SLES_15_SP2.json",
         "xSLES 15 SP3": "xSUSE_Package_Hub_SLES_15_SP3.json",
         "xSLES 15 SP4": "xSUSE_Package_Hub_SLES_15_SP4.json"
-    },
-    "xDebian": {
-        "xDebian 10": "xDebian_10_Package_List.json",
-        "xDebian 11": "xDebian_11_Package_List.json"
-    },
-    "xFedora": {
-        "xFedora 34": "xFedora_34_Package_List.json",
-        "xFedora 35": "xFedora_35_Package_List.json",
-        "xFedora 36": "xFedora_36_Package_List.json"
     },
     "xRHEL": {
         "xRHEL 6.10": "xRHEL_6_10_Package_List.json",
